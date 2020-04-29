@@ -1,0 +1,26 @@
+{
+  "name": "dpppt-nodejs-backend",
+  "version": "0.1.0",
+  "description": "NodeJS implementation of the DP-3T contact tracing protocal backend server",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheSabby/dpppt-nodejs-backend.git"
+  },
+  "keywords": [
+    "dpppt",
+    "dp-3t",
+    "contact-tracing",
+    "contact",
+    "tracing"
+  ],
+  "author": "Musaab Elfaqih <musaabelfaki@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TheSabby/dpppt-nodejs-backend/issues"
+  },
+  "homepage": "https://github.com/TheSabby/dpppt-nodejs-backend#readme"
+}
